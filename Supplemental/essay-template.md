@@ -1,11 +1,11 @@
 <div class="cover" style="page-break-after:always;font-family:方正公文仿宋;width:100%;height:100%;border:none;margin: 0 auto;text-align:center;">
     <div style="width:60%;margin: 0 auto;height:0;padding-bottom:10%;">
         </br>
-        <img src="https://gitee.com/Keldos-Li/picture/raw/master/img/%E6%A0%A1%E5%90%8D-%E9%BB%91%E8%89%B2.svg" alt="校名" style="width:100%;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Peking_University_Name.svg" alt="校名" style="width:100%;"/>
     </div>
     </br></br></br></br></br>
     <div style="width:60%;margin: 0 auto;height:0;padding-bottom:40%;">
-        <img src="https://gitee.com/Keldos-Li/picture/raw/master/img/%E6%A0%A1%E5%BE%BD-%E9%BB%91%E8%89%B2.svg" alt="校徽" style="width:100%;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Peking_University_seal.svg" alt="校徽" style="width:100%;"/>
 	</div>
     </br></br></br></br></br></br></br></br>
     <span style="font-family:华文黑体Bold;text-align:center;font-size:20pt;margin: 10pt auto;line-height:30pt;">《论文名称》</span>
